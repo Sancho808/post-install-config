@@ -16,3 +16,4 @@
 <p>In windows security if your user name doesn't apear, click more choices and type in your user name and password.</p>
                                                                                                                                                                                                     
  ![rdp pic 1](https://github.com/user-attachments/assets/9c90a02f-4aa2-46b7-8c00-6947635ad019)
+![rdp pic 2](https://github.com/user-attachments/assets/1e5a4596-b55f-4b70-b046-6b33677e0207)
