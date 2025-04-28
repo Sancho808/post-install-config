@@ -17,3 +17,8 @@
                                                                                                                                                                                                     
  ![rdp pic 1](https://github.com/user-attachments/assets/9c90a02f-4aa2-46b7-8c00-6947635ad019)
 ![rdp pic 2](https://github.com/user-attachments/assets/1e5a4596-b55f-4b70-b046-6b33677e0207)
+<p> Verify identity. 
+</p>                                                                                                                                                                                                
+                                                                                                                                                                                                    
+ ![rdp pic3](https://github.com/user-attachments/assets/0538fb49-7f76-4659-b3dc-38b6e07732c3)
+<p>You have completed remote desktop protolcal.</p>
