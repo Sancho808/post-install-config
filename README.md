@@ -1,14 +1,10 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
-
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+<h1> - Using RDP </h1>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+![image](https://github.com/user-attachments/assets/4e443851-e21d-44bc-896d-a21d241a7c48)
+
+
 
 <h2>Environments and Technologies Used</h2>
 
