@@ -7,7 +7,8 @@
 <p>Go to the start window in the bottom left and click the start window.</p>
                                                                                                                                                                                         
                                                                                                                                                                                                                                                                                                                                                                                               
- ![image](https://github.com/user-attachments/assets/19569bbd-9553-4ad8-aa22-611ab4fddd42)
+ ![image](https://github.com/user-attachments/assets/4279d4e9-58ba-4fa0-ae2d-54570d904d07)
+
 
 <p>Type remote desktop connection into the window.</p>
 - Microsoft Azure (Virtual Machines/Compute)
