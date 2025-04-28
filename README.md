@@ -10,7 +10,7 @@
  ![image](https://github.com/user-attachments/assets/4279d4e9-58ba-4fa0-ae2d-54570d904d07)
 
 
-<p>Type remote desktop connection into the search window.</p>
+<p>Type remote desktop connection into the search window. Then click remote desktop connection app. The remote desktop connection will apear </p>
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
