@@ -4,12 +4,12 @@
 
 ![image](https://github.com/user-attachments/assets/4e443851-e21d-44bc-896d-a21d241a7c48)
 
-<p>Go to the start window in the bottom left and click the start window</p>
+<p>Go to the start window in the bottom left and click the start window.</p>
                                                                                                                                                                                         
                                                                                                                                                                                                                                                                                                                                                                                               
  ![image](https://github.com/user-attachments/assets/19569bbd-9553-4ad8-aa22-611ab4fddd42)
 
-
+<p>Type remote desktop connection into the window.</p>
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
