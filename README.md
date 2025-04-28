@@ -13,3 +13,4 @@
 <p>Type remote desktop connection into the search window. Then click remote desktop connection app. The remote desktop connection will apear </p>
                                                                                                                                                                                                   
  ![image](https://github.com/user-attachments/assets/3d58d50a-61f1-4486-b45d-d37096d69b8b)
+<p>Then type in the IP address or computer name</p>
